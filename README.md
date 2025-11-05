@@ -12,7 +12,7 @@
 
 自动从 **订阅** 链接获取最新配置，将订阅 **节点/节点组/规则** 和 基础文件 的 **自定义节点/节点组/规则**  +  **其他所有设置** 结合，生成一个新的配置文件，供clash使用。  
 
-<img src="https://raw.githubusercontent.com/shengt25/Subscription-Tool-for-Clash/master/readme-example.png" style="zoom:40%;" />
+<img src="https://github.com/shengt25/subscription-tool-for-clash/blob/cb4c35b710c16c7b7dd9fa409c3b315486a4511a/readme-example.png" style="zoom:40%;" />
 
 目的是：
 
@@ -35,7 +35,7 @@ $ sudo apt install libcurl4-openssl-dev
 编译：
 
 ```
-$ git clone https://github.com/shengt25/Subscription-Tool-for-Clash.git
+$ git clone https://github.com/shengt25/subscription-tool-for-clash.git
 $ cd Subscription-Tool-for-Clash
 $ mkdir build && cd build
 $ cmake ..
